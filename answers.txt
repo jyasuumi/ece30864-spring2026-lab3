@@ -3,3 +3,7 @@ Agile development allows for flexibility and iterative delivery making it ideal 
 However, agile development has lower documentation levels.
 Non Agile development is more structured and detailed making it easy to manage stable projects.
 However, non agile development is more inflexible to changes once development begins
+
+b.)
+The product owner focuses on defining and maintaing the product backlog. They define product vision and release goals
+The scrum master ensure srum principles are followed and facilitates events
