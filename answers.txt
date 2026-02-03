@@ -7,3 +7,8 @@ However, non agile development is more inflexible to changes once development be
 b.)
 The product owner focuses on defining and maintaing the product backlog. They define product vision and release goals
 The scrum master ensure srum principles are followed and facilitates events
+
+c.)
+Spring planning - Define the sprint goal, select backlog items
+Daily stand-up - Progresss towards goal, blocker identification
+Sprint Review and Retrospective - Demonstrate work and feedback, process improvement
