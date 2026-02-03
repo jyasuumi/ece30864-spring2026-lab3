@@ -12,3 +12,9 @@ c.)
 Spring planning - Define the sprint goal, select backlog items
 Daily stand-up - Progresss towards goal, blocker identification
 Sprint Review and Retrospective - Demonstrate work and feedback, process improvement
+
+d.)
+Epic is a large bod of work that can be broken down into smaller, manageable stories or tasks
+Story is a user-centric feature or requirements
+Task is a general work item that needs to be completed
+Bug is a problem or error in the software that needs to be fixed
